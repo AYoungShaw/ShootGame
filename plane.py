@@ -1,6 +1,6 @@
 import pygame
 
-from settings import setting
+from settings import Settings
 
 #子弹类
 class Bullet(pygame.sprite.Sprite):
