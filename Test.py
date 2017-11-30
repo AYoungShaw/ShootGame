@@ -159,6 +159,7 @@ def run_game():
 
 		# 更新屏幕
 		pygame.display.update()
+		# 检查事件
 		game_functions.check_events()
 		game_functions.chek_board()
 		
